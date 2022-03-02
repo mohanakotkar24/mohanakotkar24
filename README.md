@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohanakotkar24
-- 👀 I’m fascinated by the idea of Machine learning through examples and the Mathematics in action behind the scene.
-- 🌱 I’m currently learning Google Cloud Platform - Data Engineering  
-- 💞️ I’m looking to collaborate on Machine Learning Use cases in Telecom 
+- 👀 I’m fascinated by the idea of Machine learning and the Mathematics in action behind the scene.
+- 🌱 I’m currently learning Azure  
+- 💞️ I’m looking to collaborate on Machine Learning Use cases from any field
 - 📫 How to reach me mohan.akotkar@gmail.com
 
 <!---
