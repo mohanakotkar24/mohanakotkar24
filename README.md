@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohanakotkar24
-- 👀 I’m fascinated by the idea of Machine learning and the Mathematics in action behind the scene.
-- 🌱 I’m currently learning Azure  
+- 👀 I’m fascinated by the very idea of an algorithm imitating the working of brain to figure out the plausible solution based on the experience or data it is exposed to.
+- 🌱 I’m currently learning Azure ML SDK  
 - 💞️ I’m looking to collaborate on Machine Learning Use cases from any field
 - 📫 How to reach me mohan.akotkar@gmail.com
 
